@@ -1,0 +1,19 @@
+{
+  "name": "pootorial",
+  "version": "0.0.0",
+  "description": "simple app to help incentivize potty training for the 2 yr old",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cmitch419/pootorial.git"
+  },
+  "author": "cmitch419",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cmitch419/pootorial/issues"
+  },
+  "homepage": "https://github.com/cmitch419/pootorial#readme"
+}
